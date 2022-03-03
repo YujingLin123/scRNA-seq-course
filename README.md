@@ -28,4 +28,5 @@
 ##### The last step of workflow will be considered
 ### Cell capture
 ##### The three most widely used options are microtitre-plate-based, microfluidic-array-based and microfluidic-droplet-based methods.
+![image](https://user-images.githubusercontent.com/67212190/156486457-df744489-7bc9-495a-aa39-16527d4b5b2f.png)
 
