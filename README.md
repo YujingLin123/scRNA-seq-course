@@ -26,3 +26,6 @@
  * Processing the raw data to obtain a count matrix of genes-by-cells
  * Carrying several downstream analysis (the focus of this course).
 ##### The last step of workflow will be considered
+### Cell capture
+##### The three most widely used options are microtitre-plate-based, microfluidic-array-based and microfluidic-droplet-based methods.
+
