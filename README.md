@@ -15,14 +15,14 @@
 ### Sample Preparation Protocols
 ##### Broadly speaking, a typical scRNA-seq protocol consists of the following steps (illustrated in the figure below):
 
-  * Tissue dissection and cell dissociating to obtain a suspension of cells.
-  * Optionally cells may be selected (e.g. based on membrane markers, fluorescent transgenes or staining dyes).
-Capture single cells into individual reaction containers (e.g. wells or oil droplets).
-Extracting the RNA from each cell.
-Reverse-transcribing the RNA to more stable cDNA.
-Amplifying the cDNA (either by in vitro transcription or by PCR).
-Preparing the sequencing library with adequate molecular adapters.
-Sequencing, usually with paired-end Illumina protocols.
-Processing the raw data to obtain a count matrix of genes-by-cells
-Carrying several downstream analysis (the focus of this course).
+ * Tissue dissection and cell dissociating to obtain a suspension of cells.
+ * Optionally cells may be selected (e.g. based on membrane markers, fluorescent transgenes or staining dyes).
+ * Capture single cells into individual reaction containers (e.g. wells or oil droplets).
+ * Extracting the RNA from each cell.
+ * Reverse-transcribing the RNA to more stable cDNA.
+ * Amplifying the cDNA (either by in vitro transcription or by PCR).
+ * Preparing the sequencing library with adequate molecular adapters.
+ * Sequencing, usually with paired-end Illumina protocols.
+ * Processing the raw data to obtain a count matrix of genes-by-cells
+ * Carrying several downstream analysis (the focus of this course).
 This course deals mostly with the last step of this workflow, but it is important to consider some of the steps that come before that, as they have an impact on the properties of the data we get.
