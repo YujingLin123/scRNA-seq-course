@@ -10,3 +10,5 @@
 ### Difference between Bulk RNA-seq and Single-cell RNA-seq
 ##### bulk RNA-seq we can only estimate the average expression level for each gene across a population of cells, without regard for the heterogeneity in gene expression across individual cells of that sample.
 #####  Unlike with the bulk approach, with scRNA-seq we can estimate a distribution of expression levels for each gene across a population of cells. This allows us to answer new biological questions where cell-specific changes in the transcriptome are important.
+![image](https://user-images.githubusercontent.com/67212190/156484396-7efc1be4-f1ec-4764-b0c6-619f0ed8c8e2.png)
+
