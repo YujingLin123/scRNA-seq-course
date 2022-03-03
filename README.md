@@ -6,3 +6,7 @@
 
 ### Arabidopsis
 ##### https://bioit3.irc.ugent.be/plant-sc-atlas/
+
+### Difference between Bulk RNA-seq and Single-cell RNA-seq
+##### bulk RNA-seq we can only estimate the average expression level for each gene across a population of cells, without regard for the heterogeneity in gene expression across individual cells of that sample.
+#####  Unlike with the bulk approach, with scRNA-seq we can estimate a distribution of expression levels for each gene across a population of cells. This allows us to answer new biological questions where cell-specific changes in the transcriptome are important.
