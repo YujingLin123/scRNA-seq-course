@@ -25,4 +25,4 @@
  * Sequencing, usually with paired-end Illumina protocols.
  * Processing the raw data to obtain a count matrix of genes-by-cells
  * Carrying several downstream analysis (the focus of this course).
-##### This course deals mostly with the last step of this workflow, but it is important to consider some of the steps that come before that, as they have an impact on the properties of the data we get.
+##### The last step of workflow will be considered
