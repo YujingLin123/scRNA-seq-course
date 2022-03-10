@@ -42,12 +42,20 @@
 ##### Clearly, full-length transcript quantification will be more appropriate if one is interested in studying different isoforms, since tagged protocols are much more limited in this regard. By contrast, UMIs can only be used with tagged protocols and they can improve gene-level quantification.
 
 ### Processing raw data
-#### General Considerations
-##### Human gene names are regularly updated and defined by HGNC (https://www.genenames.org/). Mouse gene names are decided by a similar consortium, MGI (http://www.informatics.jax.org/mgihome/nomen/).
-
 ### Read Alignment and Quantification in Droplet-based scRNA-seq Data
 #### General Considerations
 ##### Single cell RNA-seq data differ from bulk RNA seq in a number of ways (see Introduction to single cell RNA-Seq chapter above). Most modern scRNA-seq technologies generate read sequences containing three key pieces of information:
   * cDNA fragment that identifies the RNA transcript;
   * Cell barcode (CB) that identifies the cell where the RNA was expressed;
   * Unique Molecular Identifier (UMI) that allows to collapse reads that are PCR duplicates.
+
+##### In contrast to bulk RNA-seq, scRNA-seq deals with a much smaller amount of RNA, and more PCR cycles are performed. Thus, UMI barcodes become very useful and are now widely accepted in scRNAseq. Library sequencing is often done with paired-end reads, with one read containing CB + UMI (read 1 in 10x Chromium), and the other containing actual transcript sequence (read 2 in 10x Chromium).
+##### A classical scRNA-seq workflow contains four main steps:
+ * Mapping the cDNA fragments to a reference;
+ * Assigning reads to genes;
+ * Assigning reads to cells (cell barcode demultiplexing);
+ * Counting the number of unique RNA molecules (UMI deduplication).
+##### The outcome of this procedure is a gene/cell count matrix, which is used as an estimate of the number of RNA molecules in each cell for each gene.
+
+#### Read Mapping in Cell Ranger
+##### this detail in Cellrange directory
