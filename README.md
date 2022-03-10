@@ -38,6 +38,6 @@
 
 <img src="https://user-images.githubusercontent.com/67212190/157646299-ee4ca23d-1358-4bfc-aaef-d122600bb310.png" width="700" height="450"/><br/>
 
-
-
+### What Protocol Should I Choose
+##### Clearly, full-length transcript quantification will be more appropriate if one is interested in studying different isoforms, since tagged protocols are much more limited in this regard. By contrast, UMIs can only be used with tagged protocols and they can improve gene-level quantification.
 
