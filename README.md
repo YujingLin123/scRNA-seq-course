@@ -36,7 +36,7 @@
 
 ![image](https://user-images.githubusercontent.com/67212190/157646058-d8a0a07a-ce78-426a-a3eb-c3aca4362cb6.png)
 
-<img src="https://user-images.githubusercontent.com/67212190/157646299-ee4ca23d-1358-4bfc-aaef-d122600bb310.png" width="100px"/><br/>
+<img src="https://user-images.githubusercontent.com/67212190/157646299-ee4ca23d-1358-4bfc-aaef-d122600bb310.png" width="1000" height="1000"/><br/>
 
 
 
