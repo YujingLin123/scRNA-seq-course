@@ -30,4 +30,8 @@
 ##### The three most widely used options are microtitre-plate-based, microfluidic-array-based and microfluidic-droplet-based methods.
 ![image](https://user-images.githubusercontent.com/67212190/156486457-df744489-7bc9-495a-aa39-16527d4b5b2f.png)
 
-## Transcript Quantification
+### Transcript Quantification
+##### There are two types of transcript quantification: full-length and tag-based
+![image](https://user-images.githubusercontent.com/67212190/157645626-f2e4538f-dd53-4abe-8ed9-bb96b5df9082.png)
+
+
