@@ -58,4 +58,4 @@
 ##### The outcome of this procedure is a gene/cell count matrix, which is used as an estimate of the number of RNA molecules in each cell for each gene.
 
 #### Read Mapping in Cell Ranger
-##### this detail in Cellrange directory
+##### this detail in Processing_Raw_scRNA-seq_Data directory, containing cellrange.sh
