@@ -41,3 +41,7 @@
 ### What Protocol Should I Choose
 ##### Clearly, full-length transcript quantification will be more appropriate if one is interested in studying different isoforms, since tagged protocols are much more limited in this regard. By contrast, UMIs can only be used with tagged protocols and they can improve gene-level quantification.
 
+### Processing raw data
+##### Human gene names are regularly updated and defined by HGNC (https://www.genenames.org/). Mouse gene names are decided by a similar consortium, MGI (http://www.informatics.jax.org/mgihome/nomen/).
+
+
