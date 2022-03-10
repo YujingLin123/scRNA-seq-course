@@ -24,4 +24,4 @@ Here’s an example. If the TPM for gene A in Sample 1 is 3.33 and the TPM in sa
 
 With RPKM or FPKM, the sum of normalized reads in each sample can be different. Thus, if the RPKM for gene A in Sample 1 is 3.33 and the RPKM in Sample 2 is 3.33, I would not know if the same proportion of reads in Sample 1 mapped to gene A as in Sample 2. This is because the denominator required to calculate the proportion could be different for the two samples.
 
-<font size=5>字体、字号和颜色</font>
+
