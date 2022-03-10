@@ -28,11 +28,11 @@
 ##### The last step of workflow will be considered
 ### Cell capture
 ##### The three most widely used options are microtitre-plate-based, microfluidic-array-based and microfluidic-droplet-based methods.
-![image](https://user-images.githubusercontent.com/67212190/156486457-df744489-7bc9-495a-aa39-16527d4b5b2f.png)
+<img src="https://user-images.githubusercontent.com/67212190/156486457-df744489-7bc9-495a-aa39-16527d4b5b2f.png" width="500" height="400"/><br/>
 
 ### Transcript Quantification
 ##### There are two types of transcript quantification: full-length and tag-based.The main advantage of tag-based protocols is that they can be combined with unique molecular identifiers (UMIs), which can help improve the accuracy of transcript quantification.One disadvantage of tag-based protocols is that, being restricted to one end of the transcript only, it reduces our ability to unambiguously align reads to a transcript, as well as making it difficult to distinguish different isoforms.
-<img src="https://user-images.githubusercontent.com/67212190/157645626-f2e4538f-dd53-4abe-8ed9-bb96b5df9082.png" width="500" height="350"/><br/>
+<img src="https://user-images.githubusercontent.com/67212190/157645626-f2e4538f-dd53-4abe-8ed9-bb96b5df9082.png" width="450" height="350"/><br/>
 
 <img src="https://user-images.githubusercontent.com/67212190/157646058-d8a0a07a-ce78-426a-a3eb-c3aca4362cb6.png" width="450" heigth="350"/><br/>
 
